@@ -44,13 +44,13 @@ I styled the Movie Watchlist using an external CSS stylesheet.
 - I used custom fonts, such as Black Ops One and Cinzel, to give the Movie Watchlist its own visual style.
 - I made the layout responsive for smaller screens.
 
-## Think-aloud protocol 1
+## Think-Aloud Protocol 1
 Task: Explore the website and try adding/editing your movie recommendation list:
 - Last name of student: Ye (not from our class)
 - The user found that the list becomes overwhelming and difficult to use when the list grows bigger. They suggest to add an option that could allow users to adjust their list by movie category or by alphabet order.
 - What surprised me was that the user though the color scheme of the website was too bright for a website used to record movies a person has watched.
 
-## Think-aloud protocol 2
+## Think-Aloud Protocol 2
 Task: Explore the website and try adding/editing your movie recommendation list:
 - Last name of student: Brooke (not from our class)
 - The user found it annoying that she couldn't add more than one genre for a movie as many movies often have more than one genre associated with the story. For the future, I would consider adding a feature that allows users to add more than one genre.
