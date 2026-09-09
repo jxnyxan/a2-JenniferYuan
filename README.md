@@ -2,7 +2,7 @@
 
 This project is my second assignment for CS4241. It introduces a basic two-tier web application using HTML, CSS, JavaScript, and Node.js. The application allows users to create and manage a movie watchlist.
 
-Live Website: 
+Live Website: https://a2-jenniferyuan.onrender.com/
 
 Users can add a movie by entering the movie title, genre, and rating. The server automatically creates a recommendation based on the rating.
 
